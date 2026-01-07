@@ -9,5 +9,5 @@ sudo dnf install R
 ```
 cd ~/Downloads/
 curl https://download1.rstudio.org/electron/rhel9/x86_64/rstudio-2026.01.0-392-x86_64.rpm --output rstudio.rpm
-sudo dnf install ./rstudio
+sudo dnf install ./rstudio.rpm
 ```
