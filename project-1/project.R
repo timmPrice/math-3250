@@ -27,7 +27,7 @@ print(num_states_ff)
 
 # Q5 -> 
 avg_gdp <- gdp_total/ 50
-print(state_avg_gdp)
+print(avg_gdp)
 
 # Q6 -> state - avg gdp
 gdp$DIFFGPD <- gdp$X2015Q2 - avg_gdp
